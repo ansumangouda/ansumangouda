@@ -1,6 +1,10 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ansuman+Gouda+👋;Android[...]
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ansuman+Gouda+👋;Android+Developer+%7C+Kotlin+Expert;Building+Scalable+Mobile+Solutions" />
 </p>
+
+
+
+
 
 <h3 align="center">
 Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
@@ -11,7 +15,7 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=📱+Android+Developer;☕+Kotlin+%7[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=📱+Android+Developer;☕+Kotlin+%7C+Java;🏗️+Clean+Architecture+%7C+MVVM;🎨+Jetpack+Compose;🔐+Firebase+%7C+REST+APIs;🚀+Google+Play+Store+Published" />
 </p>
 
 ---
@@ -52,7 +56,7 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 **Key Projects at InRupi:**
 - ✅ **InRupi** - Delivery Management Platform (Kotlin, MVVM, Firebase, REST APIs)
 - ✅ **InRupiPresennce** - Employee Attendance & Presence Tracking (Kotlin, Real-time Updates)
-- ✅ **Runa_Market** - PDF Scanner & GPS-based Camera (Kotlin, CameraX, OpenCV, Location Services)
+- ✅ **Runa_Market** - Marketplace Platform (Kotlin, Payment Integration, Notifications)
 
 ### **Vikas Global Solutions Ltd.** - Android Developer
 **Bengaluru, India | 2023 – 2024**
@@ -63,10 +67,7 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 - 💳 Integrated multiple **Payment Gateway** solutions
 - 🔌 Implemented **Third-Party SDK** integrations
 - 🧪 Collaborated with QA teams for comprehensive testing
-- 🚀 Successfully deployed multiple production releases
-- 📱 Optimized app performance and user experience
-
----
+@@ -66,70 +70,113 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 
 ## 🚀 Featured Projects
 
@@ -78,6 +79,7 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 ![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=flat-square&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23DD0031.svg?style=flat-square&logo=firebase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logoColor=white)
+
 
 **Features:**
 - ✅ Real-time GPS tracking with live location updates
@@ -106,6 +108,29 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23DD0031.svg?style=flat-square&logo=firebase&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Features:**
 - ✅ Doctor-patient appointment scheduling
@@ -139,26 +164,23 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 
 ---
 
-### 📄 **Runa_Market - PDF Scanner & GPS Camera**
-**PDF scanner app with GPS-based camera for geotagging scanned documents**
+### 🛍️ **Runa_Market - E-Commerce Marketplace**
+**Multi-vendor Marketplace Platform**
 
 **Tech Stack:**
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=flat-square&logo=android&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=flat-square&logoColor=white)
-![CameraX](https://img.shields.io/badge/CameraX-3DDC84.svg?style=flat-square&logoColor=white)
-![Location](https://img.shields.io/badge/Location-4285F4.svg?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0C9ACC.svg?style=flat-square&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-00BCD4?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Features:**
-- ✅ High-quality document capture using device camera
-- ✅ Edge detection, auto-cropping and perspective correction (OpenCV)
-- ✅ Generate multipage PDF from captured images
-- ✅ GPS geotagging for scanned documents (location embedded or overlaid)
-- ✅ Image enhancements: contrast, brightness, noise reduction
-- ✅ Share/export PDFs or save locally
-- ✅ Offline-friendly processing
-- ✅ Modern UI built with Jetpack Compose
+- ✅ Multi-vendor product listings
+- ✅ Advanced search and filtering
+- ✅ Shopping cart and checkout
+- ✅ Payment gateway integration
+- ✅ Order tracking and management
+- ✅ User reviews and ratings
+- ✅ Push notifications for deals
 
 **Repository:** [github.com/ansumangouda/Runa_Market](https://github.com/ansumangouda/Runa_Market)
 
@@ -183,40 +205,33 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 
 ---
 
-## 💻 Tech Stack & Expertise
-
-### **Mobile Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
-</p>
+@@ -145,10 +192,10 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 
 ### **Architecture & Patterns**
 <p align="center">
   <img src="https://img.shields.io/badge/MVVM-0078D4.svg?style=for-the-badge&logoColor=white" alt="MVVM" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-FFA500.svg?style=for-the-badge&logoColor=white" alt="Clean Architecture" />
+
   <img src="https://img.shields.io/badge/Repository%20Pattern-FF6B6B.svg?style=for-the-badge&logoColor=white" alt="Repository Pattern" />
   <img src="https://img.shields.io/badge/Model--View--Intent-9C27B0.svg?style=for-the-badge&logoColor=white" alt="MVI Pattern" />
 </p>
 
 ### **Libraries & Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Retrofit-00BCD4.svg?style=for-the-badge&logoColor=white" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/OkHttp-009688.svg?style=for-the-badge&logoColor=white" alt="OkHttp" />
-  <img src="https://img.shields.io/badge/Room%20DB-4CAF50.svg?style=for-the-badge&logoColor=white" alt="Room Database" />
-  <img src="https://img.shields.io/badge/Coroutines-7B68EE.svg?style=for-the-badge&logoColor=white" alt="Coroutines" />
-  <img src="https://img.shields.io/badge/Flow-FF6B9D.svg?style=flat-square&logoColor=white" alt="Flow" />
-  <img src="https://img.shields.io/badge/Dagger%20Hilt-FF6D00.svg?style=for-the-badge&logoColor=white" alt="Dagger Hilt" />
+@@ -163,12 +210,13 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
   <img src="https://img.shields.io/badge/Jetpack%20Navigation-4285F4.svg?style=for-the-badge&logoColor=white" alt="Navigation" />
 </p>
 
----
+### **Payment & Location Services**
+<p align="center">
+  <img src="https://img.shields.io/badge/Stripe-626CD9.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/PayU-1A73E8.svg?style=for-the-badge&logoColor=white" alt="PayU" />
+  <img src="https://img.shields.io/badge/Razorpay-02042B.svg?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps API" />
+  <img src="https://img.shields.io/badge/GPS%20Tracking-FF5722.svg?style=for-the-badge&logoColor=white" alt="GPS Tracking" />
+</p>
 
-## 🎓 Key Competencies
-
+### **Tools & Platforms**
+@@ -187,37 +235,123 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 | Category | Skills |
 |----------|--------|
 | **Languages** | Kotlin, Java, XML, JSON |
@@ -268,7 +283,7 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
   <tr>
     <td><a href="https://github.com/ansumangouda/Runa_Market">Runa_Market</a></td>
     <td>Kotlin</td>
-    <td>PDF Scanner &amp; GPS Camera</td>
+    <td>E-Commerce Marketplace</td>
     <td>✅ Active</td>
   </tr>
   <tr>
@@ -331,23 +346,18 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
       <img src="https://streak-stats.demolab.com/?user=ansumangouda&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansumangouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Language[...]"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansumangouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansumangouda&theme=github-dark&hide_border=false" alt="Activity Graph" width="100%" />
 
+
+
 ---
 
-## 🌐 Connect With Me
-
-<table>
-  <tr>
-    <td width="35" align="center">
-      <a href="https://www.linkedin.com/in/ansuman-gouda">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="28">
-      </a>
+@@ -232,73 +366,55 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
     </td>
     <td>
       <b>LinkedIn:</b>
@@ -363,6 +373,28 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
     <td>
       <b>GitHub:</b>
       <a href="https://github.com/ansumangouda">github.com/ansumangouda</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </td>
   </tr>
   <tr>
