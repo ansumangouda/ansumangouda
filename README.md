@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ansuman+Gouda+👋;Android+Developer+%7C+Kotlin+Expert;Building+Scalable+Mobile+Solutions" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ansuman+Gouda+👋;Android[...]
 </p>
 
 <h3 align="center">
@@ -11,7 +11,7 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=📱+Android+Developer;☕+Kotlin+%7C+Java;🏗️+Clean+Architecture+%7C+MVVM;🎨+Jetpack+Compose;🔐+Firebase+%7C+REST+APIs;🚀+Google+Play+Store+Published" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=📱+Android+Developer;☕+Kotlin+%7[...]
 </p>
 
 ---
@@ -52,7 +52,7 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 **Key Projects at InRupi:**
 - ✅ **InRupi** - Delivery Management Platform (Kotlin, MVVM, Firebase, REST APIs)
 - ✅ **InRupiPresennce** - Employee Attendance & Presence Tracking (Kotlin, Real-time Updates)
-- ✅ **Runa_Market** - Marketplace Platform (Kotlin, Payment Integration, Notifications)
+- ✅ **Runa_Market** - PDF Scanner & GPS-based Camera (Kotlin, CameraX, OpenCV, Location Services)
 
 ### **Vikas Global Solutions Ltd.** - Android Developer
 **Bengaluru, India | 2023 – 2024**
@@ -139,23 +139,26 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 
 ---
 
-### 🛍️ **Runa_Market - E-Commerce Marketplace**
-**Multi-vendor Marketplace Platform**
+### 📄 **Runa_Market - PDF Scanner & GPS Camera**
+**PDF scanner app with GPS-based camera for geotagging scanned documents**
 
 **Tech Stack:**
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=flat-square&logo=android&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=flat-square&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-00BCD4?style=flat-square&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![CameraX](https://img.shields.io/badge/CameraX-3DDC84.svg?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Location-4285F4.svg?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0C9ACC.svg?style=flat-square&logoColor=white)
 
 **Features:**
-- ✅ Multi-vendor product listings
-- ✅ Advanced search and filtering
-- ✅ Shopping cart and checkout
-- ✅ Payment gateway integration
-- ✅ Order tracking and management
-- ✅ User reviews and ratings
-- ✅ Push notifications for deals
+- ✅ High-quality document capture using device camera
+- ✅ Edge detection, auto-cropping and perspective correction (OpenCV)
+- ✅ Generate multipage PDF from captured images
+- ✅ GPS geotagging for scanned documents (location embedded or overlaid)
+- ✅ Image enhancements: contrast, brightness, noise reduction
+- ✅ Share/export PDFs or save locally
+- ✅ Offline-friendly processing
+- ✅ Modern UI built with Jetpack Compose
 
 **Repository:** [github.com/ansumangouda/Runa_Market](https://github.com/ansumangouda/Runa_Market)
 
@@ -208,24 +211,6 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
   <img src="https://img.shields.io/badge/Flow-FF6B9D.svg?style=for-the-badge&logoColor=white" alt="Flow" />
   <img src="https://img.shields.io/badge/Dagger%20Hilt-FF6D00.svg?style=for-the-badge&logoColor=white" alt="Dagger Hilt" />
   <img src="https://img.shields.io/badge/Jetpack%20Navigation-4285F4.svg?style=for-the-badge&logoColor=white" alt="Navigation" />
-</p>
-
-### **Payment & Location Services**
-<p align="center">
-  <img src="https://img.shields.io/badge/Stripe-626CD9.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/PayU-1A73E8.svg?style=for-the-badge&logoColor=white" alt="PayU" />
-  <img src="https://img.shields.io/badge/Razorpay-02042B.svg?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
-  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps API" />
-  <img src="https://img.shields.io/badge/GPS%20Tracking-FF5722.svg?style=for-the-badge&logoColor=white" alt="GPS Tracking" />
-</p>
-
-### **Tools & Platforms**
-<p align="center">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Google%20Play%20Store-414141.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
-  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 ---
@@ -283,7 +268,7 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
   <tr>
     <td><a href="https://github.com/ansumangouda/Runa_Market">Runa_Market</a></td>
     <td>Kotlin</td>
-    <td>E-Commerce Marketplace</td>
+    <td>PDF Scanner &amp; GPS Camera</td>
     <td>✅ Active</td>
   </tr>
   <tr>
@@ -346,7 +331,7 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
       <img src="https://streak-stats.demolab.com/?user=ansumangouda&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansumangouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansumangouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Language[...]"/>
     </td>
   </tr>
 </table>
