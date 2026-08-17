@@ -1,21 +1,17 @@
 <p align="center">
- <img src="assets/ashutosh.png" width="1200">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ansuman+Gouda+👋;Android+Developer+%7C+Kotlin+Expert;Building+Scalable+Mobile+Solutions" />
 </p>
-
-<h1 align="center">
-Hi 👋, I'm Ansuman Gouda
-</h1>
 
 <h3 align="center">
 Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ashu8083&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ansumangouda&label=Profile%20Views&color=7F52FF&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=📱+Android+Developer;☕+Kotlin+%7C+Java;🏗️+Clean+Architecture+%7C+MVVM;🎨+Jetpack+Compose;🔐+Firebase+%7C+REST+APIs;🚀+Google+Play+Store+Published" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=📱+Android+Developer;☕+Kotlin+%7C+Java;🏗️+Clean+Architecture+%7C+MVVM;🎨+Jetpack+Compose;🔐+Firebase+%7C+REST+APIs;🚀+Google+Play+Store+Published" />
 </p>
 
 ---
@@ -23,39 +19,47 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 ## 💼 About Me
 
 ```
-3+ Years of Experience Building Production-Ready Android Applications
+Passionate Android Developer with expertise in building production-grade applications.
+Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions.
 ```
 
-- 📱 **Android Developer** at **InRupi Pvt. Ltd.**
-- 🏗️ Experienced in **MVVM** and **Clean Architecture**
-- 🎯 Specialized in **Kotlin**, **Java**, **Jetpack Compose**
-- 🔌 Expert in **REST API Integration**, **Kotlin Coroutines**, **Firebase**
+- 📱 **Android Developer** 
+- 🏗️ Specialized in **MVVM** and **Clean Architecture**
+- 🎯 Expert in **Kotlin**, **Java**, **Jetpack Compose**
+- 🔌 Proficient in **REST API Integration**, **Kotlin Coroutines**, **Firebase**
 - 💳 Experienced with **Payment Gateway Integration**
 - 🎨 Passionate about **User-Centric Design** and **Scalable Solutions**
-- 📊 Published multiple apps on **Google Play Store**
+- 📊 Developed **14+ Android Applications**
 
 ---
 
 ## 🎯 Professional Experience
 
 ### **InRupi Pvt. Ltd.** - Android Developer
-**Duration:** Current | Bengaluru, India
+**Bengaluru, India | 2024 – Present**
 
 **Responsibilities & Achievements:**
-- 🚀 Developed and maintained scalable, production-ready Android applications using **Kotlin** and **Java**
-- 🏛️ Implemented **MVVM** architecture and **Clean Architecture** principles for maintainable codebases
-- 🔌 Integrated REST APIs and implemented **Kotlin Coroutines** for asynchronous programming
-- 🔐 Integrated **Firebase** for real-time data, authentication, and push notifications
-- 💳 Implemented **Payment Gateway** integration for seamless transactions
-- 📦 Published applications on **Google Play Store** with 10K+ downloads
-- 👥 Collaborated with cross-functional teams (Backend, UI/UX, QA) for timely delivery
-- 🐛 Performed code reviews, bug fixes, and performance optimization
+- 🚀 Developing and maintaining multiple scalable Android applications using **Kotlin** and **Java**
+- 🏛️ Implementing **MVVM** architecture and **Clean Architecture** principles for robust codebases
+- 🔌 Integrating REST APIs and implementing **Kotlin Coroutines** for efficient asynchronous operations
+- 🔐 Integrating **Firebase** for real-time data, authentication, and cloud messaging
+- 💳 Implementing secure **Payment Gateway** integrations (Stripe, PayU, Razorpay)
+- 📦 Publishing applications on **Google Play Store** with 50K+ combined downloads
+- 👥 Collaborating with cross-functional teams (Backend, UI/UX, QA) for timely delivery
+- 🐛 Performing code reviews, bug fixes, and performance optimization
+- 🎨 Building responsive UIs with **Material Design** and **Jetpack Compose**
+
+**Key Projects at InRupi:**
+- ✅ **InRupi** - Delivery Management Platform (Kotlin, MVVM, Firebase, REST APIs)
+- ✅ **InRupiPresennce** - Employee Attendance & Presence Tracking (Kotlin, Real-time Updates)
+- ✅ **Runa_Market** - Marketplace Platform (Kotlin, Payment Integration, Notifications)
 
 ### **Vikas Global Solutions Ltd.** - Android Developer
-**Duration:** 2023 – 2025 | Bengaluru, India
+**Bengaluru, India | 2023 – 2024**
 
 **Key Contributions:**
-- 🎯 Developed production Android applications using **MVVM** architecture
+- 🏥 Developed healthcare applications (**Doctor_Medetel**, **Medetel_Health**, **MEDETEL_patient**)
+- 🎯 Built production-ready Android apps using **Java** and **Kotlin**
 - 💳 Integrated multiple **Payment Gateway** solutions
 - 🔌 Implemented **Third-Party SDK** integrations
 - 🧪 Collaborated with QA teams for comprehensive testing
@@ -66,24 +70,24 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 
 ## 🚀 Featured Projects
 
-### 📍 **Runamarga Trackmate**
+### 📍 **InRupi - Delivery Management Platform**
 **Real-time Delivery & Order Tracking Application**
 
 **Tech Stack:**
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=flat-square&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23DD0031.svg?style=flat-square&logo=firebase&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=rest-api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logoColor=white)
 
 **Features:**
 - ✅ Real-time GPS tracking with live location updates
-- ✅ User authentication and role-based access control
+- ✅ User authentication with Firebase Auth
 - ✅ Order management with status tracking
 - ✅ Interactive maps integration using Google Maps API
-- ✅ Push notifications for order updates
+- ✅ Push notifications using Firebase Cloud Messaging
 - ✅ Offline support with data synchronization
-- ✅ Published on Google Play Store
+- ✅ Payment gateway integration
+- ✅ Role-based access control (RBAC)
 
 **Key Achievements:**
 - 📊 10K+ active users
@@ -91,45 +95,88 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 - 🔄 Seamless real-time updates using Kotlin Coroutines
 - 🎨 Responsive UI with Material Design
 
+**Repository:** [github.com/ansumangouda/InRupi](https://github.com/ansumangouda/InRupi)
+
 ---
 
-### 📸 **3-in-1 Utility App**
-**Multi-functional Mobile Application Suite**
+### 🏥 **Doctor_Medetel - Healthcare Platform**
+**Telemedicine & Health Management Application**
 
 **Tech Stack:**
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-![Room Database](https://img.shields.io/badge/Room%20DB-4CAF50?style=flat-square&logo=database&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23DD0031.svg?style=flat-square&logo=firebase&logoColor=white)
 
-**Three Integrated Modules:**
+**Features:**
+- ✅ Doctor-patient appointment scheduling
+- ✅ Video consultation capabilities
+- ✅ Medical records management
+- ✅ Prescription tracking
+- ✅ Real-time notifications
+- ✅ Secure patient data storage
 
-1. **📄 PDF Scanner**
-   - Document capture and scanning with real-time processing
-   - Advanced image enhancement algorithms
-   - PDF generation with optimized compression
-   - Easy sharing and export options
-   - OCR support for text recognition
+**Repository:** [github.com/ansumangouda/Doctor_Medetel](https://github.com/ansumangouda/Doctor_Medetel)
 
-2. **🗺️ GPS Camera**
-   - Geotagged photo capture with location tracking
-   - Interactive map view with captured locations
-   - Metadata storage and retrieval
-   - Gallery with location-based filters
-   - Distance and route tracking
+---
 
-3. **💰 EMI Calculator**
-   - Flexible loan calculation with multiple currencies
-   - Detailed amortization schedule generation
-   - Payment breakdowns and interest calculations
-   - Installment planning with visual charts
-   - Comparison tools for different loan scenarios
+### 👔 **InRupiPresennce - Attendance Tracking**
+**Employee Presence & Attendance Management System**
 
-**Key Achievements:**
-- 🎨 Modern UI with Jetpack Compose
-- ⚡ Optimized performance for various device sizes
-- 🔒 Secure local storage using Room Database
-- 📱 Responsive and intuitive user experience
-- 📊 Real-time data visualization
+**Tech Stack:**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room%20DB-4CAF50?style=flat-square&logoColor=white)
+![Location Services](https://img.shields.io/badge/Location-4285F4?style=flat-square&logoColor=white)
+
+**Features:**
+- ✅ GPS-based check-in/check-out
+- ✅ Attendance tracking and reporting
+- ✅ Real-time location updates
+- ✅ Offline attendance support
+- ✅ Manager dashboard with analytics
+- ✅ Geofencing capabilities
+
+**Repository:** [github.com/ansumangouda/InRupiPresennce](https://github.com/ansumangouda/InRupiPresennce)
+
+---
+
+### 🛍️ **Runa_Market - E-Commerce Marketplace**
+**Multi-vendor Marketplace Platform**
+
+**Tech Stack:**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=flat-square&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-00BCD4?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Features:**
+- ✅ Multi-vendor product listings
+- ✅ Advanced search and filtering
+- ✅ Shopping cart and checkout
+- ✅ Payment gateway integration
+- ✅ Order tracking and management
+- ✅ User reviews and ratings
+- ✅ Push notifications for deals
+
+**Repository:** [github.com/ansumangouda/Runa_Market](https://github.com/ansumangouda/Runa_Market)
+
+---
+
+### 🎤 **RunaVoiceVault - Voice Storage**
+**Secure Voice Recording & Storage Application**
+
+**Tech Stack:**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room%20DB-4CAF50?style=flat-square&logoColor=white)
+
+**Features:**
+- ✅ High-quality voice recording
+- ✅ Secure local storage
+- ✅ Cloud backup support
+- ✅ Voice playback and management
+- ✅ Folder organization
+- ✅ Encryption support
+
+**Repository:** [github.com/ansumangouda/RunaVoiceVault](https://github.com/ansumangouda/RunaVoiceVault)
 
 ---
 
@@ -145,10 +192,10 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 
 ### **Architecture & Patterns**
 <p align="center">
-  <img src="https://img.shields.io/badge/MVVM-0078D4.svg?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/MVVM-0078D4.svg?style=for-the-badge&logoColor=white" alt="MVVM" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-FFA500.svg?style=for-the-badge&logoColor=white" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688.svg?style=for-the-badge&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Repository%20Pattern-FF6B6B.svg?style=for-the-badge&logoColor=white" alt="Repository Pattern" />
+  <img src="https://img.shields.io/badge/Model--View--Intent-9C27B0.svg?style=for-the-badge&logoColor=white" alt="MVI Pattern" />
 </p>
 
 ### **Libraries & Frameworks**
@@ -163,12 +210,13 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
   <img src="https://img.shields.io/badge/Jetpack%20Navigation-4285F4.svg?style=for-the-badge&logoColor=white" alt="Navigation" />
 </p>
 
-### **Payment & APIs**
+### **Payment & Location Services**
 <p align="center">
   <img src="https://img.shields.io/badge/Stripe-626CD9.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/PayU-1A73E8.svg?style=for-the-badge&logoColor=white" alt="PayU" />
   <img src="https://img.shields.io/badge/Razorpay-02042B.svg?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
   <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps API" />
+  <img src="https://img.shields.io/badge/GPS%20Tracking-FF5722.svg?style=for-the-badge&logoColor=white" alt="GPS Tracking" />
 </p>
 
 ### **Tools & Platforms**
@@ -187,37 +235,123 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 | Category | Skills |
 |----------|--------|
 | **Languages** | Kotlin, Java, XML, JSON |
-| **Architecture** | MVVM, Clean Architecture, Repository Pattern |
+| **Architecture** | MVVM, Clean Architecture, Repository Pattern, MVI |
 | **UI/UX** | Jetpack Compose, Material Design, XML Layouts, Responsive Design |
-| **Networking** | REST APIs, Retrofit, OkHttp, WebSockets |
+| **Networking** | REST APIs, Retrofit, OkHttp, WebSockets, GraphQL |
 | **Database** | Room, SQLite, Firebase Realtime DB, Firestore |
 | **Async Programming** | Kotlin Coroutines, Flow, LiveData, RxJava |
-| **Dependency Injection** | Dagger Hilt, Service Locator |
-| **Authentication** | Firebase Auth, JWT, OAuth 2.0 |
+| **Dependency Injection** | Dagger Hilt, Koin, Service Locator |
+| **Authentication** | Firebase Auth, JWT, OAuth 2.0, Biometric Auth |
 | **Payment Integration** | Stripe, PayU, Razorpay |
-| **Real-time Services** | Firebase Messaging, Firebase Realtime DB |
-| **Location Services** | Google Maps API, GPS Tracking |
-| **Version Control** | Git, GitHub, Branching Strategies |
+| **Real-time Services** | Firebase Messaging, Firebase Realtime DB, Firestore |
+| **Location Services** | Google Maps API, GPS Tracking, Geofencing |
+| **Version Control** | Git, GitHub, Branching Strategies, GitFlow |
 | **Testing** | Unit Testing, UI Testing, JUnit, Mockito |
+| **CI/CD** | GitHub Actions, Firebase Deployment |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Repository Statistics
+
+### **My Repositories Overview**
+
+<table align="center">
+  <tr>
+    <th>Repository</th>
+    <th>Language</th>
+    <th>Type</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/InRupi">InRupi</a></td>
+    <td>Kotlin</td>
+    <td>Delivery Management</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/Doctor_Medetel">Doctor_Medetel</a></td>
+    <td>Kotlin</td>
+    <td>Healthcare Platform</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/InRupiPresennce">InRupiPresennce</a></td>
+    <td>Kotlin</td>
+    <td>Attendance Tracking</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/Runa_Market">Runa_Market</a></td>
+    <td>Kotlin</td>
+    <td>E-Commerce Marketplace</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/RunaVoiceVault">RunaVoiceVault</a></td>
+    <td>Kotlin</td>
+    <td>Voice Recording App</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/Organization">Organization</a></td>
+    <td>Kotlin</td>
+    <td>Organization Management</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/Medetel_Health">Medetel_Health</a></td>
+    <td>Java</td>
+    <td>Healthcare</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/MEDETEL_patient">MEDETEL_patient</a></td>
+    <td>Java</td>
+    <td>Patient Portal</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/counter_application">counter_application</a></td>
+    <td>Java</td>
+    <td>Utility App</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/UpLodeDocument">UpLodeDocument</a></td>
+    <td>Java</td>
+    <td>Document Management</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansumangouda/NonSeamless-Simple">NonSeamless-Simple</a></td>
+    <td>Java</td>
+    <td>Payment Processing</td>
+    <td>✅ Active</td>
+  </tr>
+</table>
+
+### **Technology Distribution**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin%20Projects-5-7F52FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java%20Projects-6-ED8B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-14+-121011?style=flat-square" />
+</p>
+
+### **GitHub Stats Animation**
 
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Ashu8083&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=ansumangouda&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ashu8083&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansumangouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashu8083&theme=github-dark" alt="Activity Graph" width="100%" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashu8083&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansumangouda&theme=github-dark&hide_border=false" alt="Activity Graph" width="100%" />
 
 ---
 
@@ -232,73 +366,55 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
     </td>
     <td>
       <b>LinkedIn:</b>
-      <a href="https://www.linkedin.com/in/asutosh-gouda">linkedin.com/in/asutosh-gouda</a>
+      <a href="https://www.linkedin.com/in/ansuman-gouda">linkedin.com/in/ansuman-gouda</a>
     </td>
   </tr>
   <tr>
     <td width="35" align="center">
-      <a href="https://github.com/Ashu8083">
+      <a href="https://github.com/ansumangouda">
         <img src="https://skillicons.dev/icons?i=github" width="28">
       </a>
     </td>
     <td>
       <b>GitHub:</b>
-      <a href="https://github.com/Ashu8083">github.com/Ashu8083</a>
+      <a href="https://github.com/ansumangouda">github.com/ansumangouda</a>
     </td>
   </tr>
   <tr>
     <td width="35" align="center">
-      <a href="https://instagram.com/asutosh_gouda_711">
-        <img src="https://skillicons.dev/icons?i=instagram" width="28">
-      </a>
-    </td>
-    <td>
-      <b>Instagram:</b>
-      <a href="https://instagram.com/asutosh_gouda_711">@asutosh_gouda_711</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="35" align="center">
-      <a href="https://leetcode.com/u/asutosh_83/">
-        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28">
-      </a>
-    </td>
-    <td>
-      <b>LeetCode:</b>
-      <a href="https://leetcode.com/u/asutosh_83/">asutosh_83</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="35" align="center">
-      <a href="mailto:asutosh.gouda22@gmail.com">
+      <a href="mailto:ansumangouda72@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="28">
       </a>
     </td>
     <td>
       <b>Email:</b>
-      <a href="mailto:asutosh.gouda22@gmail.com">asutosh.gouda22@gmail.com</a>
+      <a href="mailto:ansumangouda72@gmail.com">ansumangouda72@gmail.com</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Additional Highlights
+## 🎯 Career Highlights
 
-- ✨ Published **2+ applications** on Google Play Store with 10K+ combined downloads
-- 🏆 Demonstrated expertise in full app lifecycle from design to deployment
-- 🤝 Strong collaborator with designers, backend engineers, and QA teams
-- 📚 Continuous learner staying updated with latest Android development trends
-- 🔍 Detail-oriented with focus on code quality, performance, and security
+- ✨ Developed **14+ Android Applications** across various domains
+- 🏆 Specialized expertise in **Kotlin** development and **MVVM Architecture**
+- 📱 Published multiple apps on **Google Play Store** with 50K+ combined downloads
+- 🎯 Led development of healthcare, delivery, marketplace, and enterprise solutions
+- 🚀 Demonstrated expertise in full app lifecycle from design to production deployment
+- 🤝 Strong collaborator with designers, backend engineers, and product managers
+- 📚 Continuously learning and staying updated with latest Android development trends
+- 🔍 Detail-oriented with focus on code quality, performance, and user experience
 - 💡 Problem solver with strong debugging and optimization skills
-- 🎖️ Experienced in agile development and sprint-based workflows
+- 🎖️ Experienced in agile development, Scrum, and sprint-based workflows
+- 🔐 Expertise in implementing secure authentication and payment integrations
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Ashu8083/Ashu8083/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <i>Thanks for visiting! I'm passionate about building high-quality Android applications. Feel free to reach out for collaborations or exciting projects.</i>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting! Feel free to reach out for collaborations or exciting projects.</i>
+  <img src="https://github.com/ansumangouda/ansumangouda/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
