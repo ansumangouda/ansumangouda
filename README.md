@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">
-Hi 👋, I'm Ashutosh Gouda
+Hi 👋, I'm Ansuman Gouda
 </h1>
 
 <h3 align="center">
 Backend Developer | Spring Boot | Java | FastAPI | PostgreSQL
 </h3>
 
-<p align="center">
+<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Ashu8083&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
