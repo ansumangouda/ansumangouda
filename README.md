@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋, I'm Ashutosh Gouda
+Hi 👋, I'm Ansuman Gouda
 </h1>
 
 <h3 align="center">
@@ -226,7 +226,7 @@ Android Developer | Kotlin | Java | Jetpack Compose | Clean Architecture
 <table>
   <tr>
     <td width="35" align="center">
-      <a href="https://www.linkedin.com/in/asutosh-gouda">
+      <a href="https://www.linkedin.com/in/ansuman-gouda">
         <img src="https://skillicons.dev/icons?i=linkedin" width="28">
       </a>
     </td>
