@@ -1,70 +1,53 @@
+---
+
+## 💼 My Professional Journey
+
 <p align="center">
-  <img src="assets/ashutosh.png" width="100%" alt="Ansuman Gouda Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=7F52FF&center=true&vCenter=true&width=900&lines=3%2B+Years+of+Android+Development;Building+Production-Ready+Android+Apps;Kotlin+%7C+Jetpack+Compose+%7C+Java;MVVM+%7C+Clean+Architecture+%7C+REST+APIs" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Ansuman Gouda
-</h1>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<h3 align="center">
-  Android Developer | Kotlin | Jetpack Compose | Java
-</h3>
+### 🏢 InRupi Pvt. Ltd.
+
+**Android Developer**  
+📍 Bengaluru, India  
+📅 **2025 – Present**
+
+📱 Kotlin & Jetpack Compose  
+🏗️ MVVM Architecture  
+🌐 REST API Integration  
+🎨 Modern UI Development  
+⚡ Performance Optimization  
+🐛 Production Bug Fixing
+
+</td>
+
+<td align="center" width="50%">
+
+### 🏢 Vikas Global Solutions Ltd.
+
+**Android Developer**  
+📍 Bengaluru, India  
+📅 **2023 – 2025**
+
+📱 Production Android Apps  
+🏗️ MVVM Architecture  
+💳 Payment Gateway Integration  
+🔌 Third-Party SDK Integration  
+🧪 QA & Testing Collaboration  
+🚀 Production Releases
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ansuman-gouda-564595246">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ansumangouda72@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ashu8083">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashu8083&label=Profile%20Views&color=6C63FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-7F52FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-Expert-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
-
-## 👨‍💻 About Me
-
-I'm an **Android Developer with 3+ years of professional experience** building, maintaining, and deploying production-ready Android applications.
-
-I specialize in:
-
-- 📱 Native Android Development
-- 🟣 Kotlin & Jetpack Compose
-- ☕ Java & XML
-- 🏗️ MVVM & Clean Architecture
-- 🔄 Kotlin Coroutines & Flow
-- 🌐 REST API Integration
-- 🔥 Firebase
-- 💳 Payment Gateway Integration
-- 📍 GPS & Location-based Features
-- 🎨 Modern UI/UX Implementation
-- 🚀 Production App Deployment
-
-I enjoy transforming ideas into **clean, scalable, secure, and user-friendly mobile applications**.
-
----
-
-## 🚀 What I Do
-
-```text
-📱 Android Application Development
-        ↓
-🟣 Kotlin / Java
-        ↓
-🎨 Jetpack Compose / XML
-        ↓
-🏗️ MVVM / Clean Architecture
-        ↓
-🌐 REST APIs / Retrofit
-        ↓
-🔥 Firebase / Real-time Data
-        ↓
-🧪 Testing & Debugging
-        ↓
-🚀 Production & Play Store Deployment
