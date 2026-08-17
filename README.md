@@ -164,8 +164,8 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 
 ---
 
-### 🛍️ **Runa_Market - E-Commerce Marketplace**
-**Multi-vendor Marketplace Platform**
+### 📄 **Runa_Market - PDF Scanner & GPS Camera**
+**PDF scanner app with GPS-based camera for geotagging scanned documents**
 
 **Tech Stack:**
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
@@ -174,14 +174,14 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Features:**
-- ✅ Multi-vendor product listings
-- ✅ Advanced search and filtering
-- ✅ Shopping cart and checkout
-- ✅ Payment gateway integration
-- ✅ Order tracking and management
-- ✅ User reviews and ratings
-- ✅ Push notifications for deals
-
+- ✅ High-quality document capture using device camera
+- ✅ Edge detection, auto-cropping and perspective correction (OpenCV)
+- ✅ Generate multipage PDF from captured images
+- ✅ GPS geotagging for scanned documents (location embedded or overlaid)
+- ✅ Image enhancements: contrast, brightness, noise reduction
+- ✅ Share/export PDFs or save locally
+- ✅ Offline-friendly processing
+- ✅ Modern UI built with Jetpack Compose
 **Repository:** [github.com/ansumangouda/Runa_Market](https://github.com/ansumangouda/Runa_Market)
 
 ---
