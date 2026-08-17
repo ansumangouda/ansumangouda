@@ -208,7 +208,7 @@ Specialized in Kotlin, MVVM Architecture, and creating scalable mobile solutions
   <img src="https://img.shields.io/badge/OkHttp-009688.svg?style=for-the-badge&logoColor=white" alt="OkHttp" />
   <img src="https://img.shields.io/badge/Room%20DB-4CAF50.svg?style=for-the-badge&logoColor=white" alt="Room Database" />
   <img src="https://img.shields.io/badge/Coroutines-7B68EE.svg?style=for-the-badge&logoColor=white" alt="Coroutines" />
-  <img src="https://img.shields.io/badge/Flow-FF6B9D.svg?style=for-the-badge&logoColor=white" alt="Flow" />
+  <img src="https://img.shields.io/badge/Flow-FF6B9D.svg?style=flat-square&logoColor=white" alt="Flow" />
   <img src="https://img.shields.io/badge/Dagger%20Hilt-FF6D00.svg?style=for-the-badge&logoColor=white" alt="Dagger Hilt" />
   <img src="https://img.shields.io/badge/Jetpack%20Navigation-4285F4.svg?style=for-the-badge&logoColor=white" alt="Navigation" />
 </p>
